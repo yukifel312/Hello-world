@@ -1,2 +1,3 @@
 # Hello-world
-That's my first attemption on GitHub
+Hi! My name is Yukiko.
+I'm learning Web Development at college.
